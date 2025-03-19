@@ -76,7 +76,6 @@ if (islower(cipher[i]) && plain[i] < 'a') {
 ```
 
 ## OUTPUT:
-OUTPUT:
 ![Screenshot 2025-03-19 093144](https://github.com/user-attachments/assets/d6671e60-f1fd-413c-b609-da784a4069ce)
 
 
