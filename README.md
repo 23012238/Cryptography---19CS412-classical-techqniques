@@ -30,8 +30,7 @@ Implementation using C or pyhton code
 
 
 ## PROGRAM:
-PROGRAM:
-```
+```c
  #include <stdio.h>
  #include <string.h>
  #include <ctype.h>
